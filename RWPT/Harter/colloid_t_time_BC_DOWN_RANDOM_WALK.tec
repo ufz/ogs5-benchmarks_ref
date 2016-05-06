@@ -1,5 +1,5 @@
  TITLE = "Time curves in points"
- VARIABLES = "TIME " leavingParticles 
+ VARIABLES = "TIME" leavingParticles 
  ZONE T="POINT=POINTBC_DOWN"
 0.000000000000e+00 0 
 5.100000000000e+01 0 
